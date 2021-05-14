@@ -1,0 +1,13 @@
+*.pyc
+*.swp
+*egg-info
+dist
+build
+/*.json
+/*.txt
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
