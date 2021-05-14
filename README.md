@@ -36,7 +36,7 @@ De même, les groupes de billes (ceux qui sont adjacents les uns aux autres et p
 ### Fonction heuristique et d'évaluation
 Les heuristiques utilisées par certains des algorithmes sont décrites ci-dessous:
 
-#### Proximité du centre (h<sub>1 </sub>)
+#### Proximité du centre (h<sub>1</sub>)
 
 Abalone  nécessite des mouvements très défensifs. Être au centre du plateau est le meilleur endroit car cela force l'adversaire vers les bords, qui est l'endroit le plus vulnérable du plateau. La distance entre chaque bille au centre de la grille est calculée pour les deux joueurs, puis leur différence est prise (le maximizer favorise les h <sub> 1 </sub> bas).
 
