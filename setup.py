@@ -13,7 +13,7 @@ setup(
     long_description=long_description,
     author='Anouar & Mustapha ',
     author_email='195116@ecam.be',
-    url='',
+    url='https://github.com/elandaloussi20/abalone-?fbclid=IwAR1TFTvMaFcZdxuTAoceMC1GIqN4GFW9K0ljYJ8jnBM0_T88KQVkOMGFWYY',
     packages=find_packages(exclude=('tests*',)),
     install_requires=[
         'pyfiglet'
